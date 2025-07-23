@@ -83,10 +83,8 @@ Autonomous driving systems generate large volumes of video data. However, only a
 
 ## 🧑‍💻 Contributors
 
-- **Rui Yuhan (芮煜涵)**
-- **Qiao Shihan (乔诗涵)**
-   South University of Science and Technology
-   Department of Computer Science and Engineering
+- **Rui Yuhan (芮煜涵) Sustech**
+- **Qiao Shihan (乔诗涵) Sustech**
 
 ------
 
